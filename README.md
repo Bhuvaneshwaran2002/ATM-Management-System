@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="ATM Management System Banner" width="100%">
+</p>
+
+<br>
 # ATM Management System
 
 ## Overview
